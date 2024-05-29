@@ -1,7 +1,11 @@
 { "version": 0.1 ,
   "license": "MIT",
   "name": "cd4070b",
+<<<<<<< HEAD
   "docs": "https://github.com/wokwi-custom-chips/cd4077b/blob/main/docs/README.md",
+=======
+  "docs": "https://github.com/wokwi-custom-chips/cd4070b/blob/main/docs/README.md",
+>>>>>>> d8a5d7df729cba973dc88669813c7472bbb1b07e
   "author": "Algovoid",
   "pins": [
     "A",
