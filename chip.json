@@ -1,0 +1,23 @@
+{ "version": 0.1 ,
+  "license": "MIT",
+  "name": "cd4077b",
+  "docs": "https://github.com/wokwi-custom-chips/cd4077b/blob/main/docs/README.md",
+  "author": "Algovoid",
+  "pins": [
+    "A",
+    "B",
+    "J",
+    "K",
+    "C",
+    "D",
+    "GND",
+    "E",
+    "F",
+    "L",
+    "M",
+    "G",
+    "H",
+    "VDD" 
+  ],
+  "controls": []
+}
