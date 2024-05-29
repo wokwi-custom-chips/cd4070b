@@ -9,13 +9,13 @@ of j = A ⊕ B (for gate 1 in this case) in positive logic.
 
 ## Truth Table (1 for each gate)
 
-
 | INPUT A | INPUT B |  OUTPUT |
 |---------|---------|---------|
-|    L    |    L    |    L    | pass
-|    H    |    L    |    H    | pass
-|    L    |    H    |    H    | pass
+|    L    |    L    |    L    |
+|    H    |    L    |    H    |
+|    L    |    H    |    H    |
 |    H    |    H    |    L    |
+
 
 ## Pin names
 
